@@ -10,9 +10,9 @@ a {
 }
 
 /* Remove numbers/bullets of ul/ol if it's displaying */
-/* li {
+li {
   list-style: none;
-} */
+}
 /* End of noted code*/
 ol li {
   font-size: x-large;
@@ -30,6 +30,7 @@ ol li {
 ol li:hover {
   /* Transform the element by scaling the size*/
   transform: scale(1.1, 1.1);
+  filter: brightness(1.1);
 }
 
 /* End of code for full-week.html */
