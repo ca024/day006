@@ -8,8 +8,8 @@
 }
 
 body {
-  /* Put up and bottom padding */
-  padding: 100px 230px;
+  /* Set top,bottom and left,right padding */
+  padding: 100px 200px;
   /* Center the texts horizontally */
   text-align: center;
 }
