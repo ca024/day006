@@ -1,0 +1,11 @@
+/* Styling for full-week.html */
+.upcoming-challenge {
+  font-size: x-large;
+  color: darkkhaki;
+}
+
+.upcoming-challenge:hover {
+  /* Transform the element by scaling the size*/
+  transform: scale(1.1, 1.1);
+}
+/* End of code for full-week.html */
